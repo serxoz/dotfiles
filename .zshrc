@@ -111,7 +111,7 @@ source <(kubectl completion zsh)
 # Virtualenvwrapper for python
 export WORKON_HOME=~/.virtualenvs
 mkdir -p $WORKON_HOME
-source $HOME/.local/bin/virtualenvwrapper.sh
+source /usr/bin/virtualenvwrapper.sh
 
 # Colores do autosugest
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=242"
