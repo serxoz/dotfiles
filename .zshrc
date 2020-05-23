@@ -98,7 +98,6 @@ export LANG=es_ES.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-alias vimgo='vim -u ~/.vimrc.go'
 alias vi="nvim"
 alias vim="nvim"
 
